@@ -52,11 +52,8 @@ NAME:VISHWA.S
 ```
 
 ## Output
-```
+
 <img width="1189" height="823" alt="image" src="https://github.com/user-attachments/assets/6ba2ca52-ecf6-4e2d-9199-ca867c13dde7" />
-
-
-```
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
